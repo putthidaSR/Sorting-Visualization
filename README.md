@@ -1,6 +1,3 @@
-# TCSS 598 - Masters Seminar in CSS
-## Fall 2019
-
 # Visualization of Sorting Techniques
 ## Project Goal
 Create a comprehensive visual representation of the implemented sorting algorithms. Show how different sorting techniques perform given a set of data by creating a video that records the sorting process.
@@ -29,4 +26,4 @@ Libraries/Tools used:
     - Frame is updating based on each algorithm.
     - Static wait time after swapping elements in each algorithm: 1ms
 - Analysis of different sorting techniques:
-    - The analyzing frame in the video is based on the interpretation of 16 data sets (including 2 real data sets) and the graphs generated as part of the Assignment 1 - Sorting Simulation (https://github.com/putthidaSR/TCSS598-SortingSimulation)
+    - The analyzing frame in the video is based on the interpretation of 16 data sets (including 2 real data sets) and the graphs generated as part of the Sorting Simulation (https://github.com/putthidaSR/TCSS598-SortingSimulation)
